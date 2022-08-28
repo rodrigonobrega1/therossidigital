@@ -1,0 +1,55 @@
+ /* blurring the image */
+ .gfg {
+    width: 100%;
+    opacity: 0.6;
+    position: relative;
+    margin: -2px -2px -2px 0px;
+}
+
+.container {
+    background-color: black;
+}
+
+#h3-banner {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    position: absolute;
+    margin-top: -70px;
+    font-size: 10px;
+    color: #EAE097;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    position: absolute;
+    margin-top: 100px;
+    font-size: 12px;
+    width: 100%;
+    text-align: center;
+}
+
+.logo {
+    width: 60%;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 5%;
+    left: 20%;
+}
+
+.card img{
+    width: 100%;
+}
+
+.card2 img{
+    width: 100%;
+    opacity: 0.2;
+}
+
+.card2 {
+    background-color: black;
+}
+
+.card2 h3{
+    margin-top: 100px;
+}
